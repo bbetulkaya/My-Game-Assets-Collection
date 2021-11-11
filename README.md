@@ -1,2 +1,2 @@
 # My-Game-Assets-Collection
-  All of the created game assets to use in my games
+Game assets collection created by me to use in personal game projects.
